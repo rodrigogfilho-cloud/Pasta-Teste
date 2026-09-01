@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+
+
+.conteudo-principal{
+    height: 8vh;
+    width: 100%;
+    background: #ebaa20;
+    color: black;
+    align-items: center;
+    border: 2px solid;
+    
+
+}
+
+.conteudo-principal__title{
+    height: 14vh;
+    width: 100%;
+    background: #4b360a;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    border: 2px solid;
+
+
+}
+
+.img-01{
+    border-radius: 15px;
+
+}
+
+.conteudo-principal__ingredientes{
+    border: 2px solid;
+}
+
+.conteudo-principal__receita{
+    display: flex;
+    
+}
